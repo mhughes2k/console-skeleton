@@ -8,6 +8,7 @@
             "email": "michael@phoenixproductions.org.uk"
         }
     ],
+    "minimum-stablility": "dev",
     "require": {
         "symfony/console": "^4.3",
         "vlucas/phpdotenv": "^3.5"
