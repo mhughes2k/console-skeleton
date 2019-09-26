@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "^4.3",
+        "vlucas/phpdotenv": "^3.5"
+    },
+    "autoload":{
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
