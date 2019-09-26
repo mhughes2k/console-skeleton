@@ -1,4 +1,13 @@
 {
+    "name": "mhughes2k/consoleskeleton",
+    "description": "A Symfony base console application with preconfigured command loading",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michael Hughes",
+            "email": "michael@phoenixproductions.org.uk"
+        }
+    ],
     "require": {
         "symfony/console": "^4.3",
         "vlucas/phpdotenv": "^3.5"
